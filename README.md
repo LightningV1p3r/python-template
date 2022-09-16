@@ -1,0 +1,39 @@
+<div align="center">
+
+# PROJECT_NAME_URL
+
+A one-liner description of your project goes here.
+
+[![PyPi](https://img.shields.io/pypi/v/PROJECT_NAME_URL)](https://pypi.org/project/PROJECT_NAME_URL)
+[![Licence](https://img.shields.io/github/license/USERNAME/PROJECT_NAME_URL)](LICENSE)
+
+<img src="https://raw.githubusercontent.com/justintime50/assets/main/src/python-template/showcase.png" alt="Showcase">
+
+</div>
+
+A longer paragraph description of your project goes here.
+
+## Install
+
+```bash
+# Install tool
+pip3 install project_name
+
+# Install locally
+make install
+```
+
+## Usage
+
+Usage instructions go here.
+
+```bash
+venv/bin/python my_script.py
+```
+
+## Development
+
+```bash
+# Get a comprehensive list of development tools
+make help
+```
